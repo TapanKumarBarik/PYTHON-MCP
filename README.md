@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 uv init mcp-server-demo
 
 cd mcp-server-demo
